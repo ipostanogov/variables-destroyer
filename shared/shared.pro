@@ -1,5 +1,6 @@
 TARGET = shared
 TEMPLATE = lib
+CONFIG -= debug_and_release_target
 
 SOURCES += shared.cpp
 
